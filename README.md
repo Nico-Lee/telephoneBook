@@ -2,6 +2,7 @@
 
 
 void add_linkman(info *arr);//添加联系人
+
 void printf_face();//打印菜单
 void del_linkman(info *arr);//删除联系人
 info *empt_linkman(info *arr);//清空所有联系人
